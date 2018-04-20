@@ -1,0 +1,31 @@
+ul {
+  cursor: pointer;
+  padding: 10px 30px;
+  background: #414141;
+  color: white;
+list-style: none;
+}
+button:hover{
+  background: var(--main-color);
+  color: black;
+}
+
+ul li {
+      background: #bab9b9;
+      margin-bottom: 5px;
+}
+
+#cat-count {
+
+}
+
+#cat {
+  padding: 10px 30px;
+  background: #414141;
+  color: white;
+}
+
+#cat-img {
+      cursor: pointer;
+      max-width: 300px;
+}
